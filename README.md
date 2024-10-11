@@ -1,2 +1,3 @@
-# PyDSMC
-Python based Direct Simulation Monte Carlo (DSMC) for modeling dilute gas flows. 
+# DSMC Simulator
+
+This project simulates rarefied gas flows using the DSMC algorithm.
