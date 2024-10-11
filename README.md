@@ -1,3 +1,3 @@
-# DSMC Simulator
+# DSMC Simulation Project
 
-This project simulates rarefied gas flows using the DSMC algorithm.
+This is a DSMC (Direct Simulation Monte Carlo) project.
